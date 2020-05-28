@@ -1,4 +1,4 @@
-# Ore-digjitale
+# Orë-digjitale
 ## Orë digjitale me Javascript
 ![alt tag](https://www.bing.com/images/blob?bcid=RJvGKmLoFl8BPQ "Description goes here")
 
